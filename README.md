@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">✨ I'm a second-year Computer Science & AI student passionate about the intersection of software development and intelligent systems.<br><br>🚀  Currently diving deep into machine learning algorithms and data structures. I enjoy tackling challenging problems and am always eager to learn new technologies.</h6>
+<p align="left">✨ I'm a second-year Computer Science & AI student passionate about the intersection of software development and intelligent systems.<br><br>🚀  Currently diving deep into machine learning algorithms and data structures. I enjoy tackling challenging problems and am always eager to learn new technologies.</p>
 
 ###
 
